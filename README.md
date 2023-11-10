@@ -8,3 +8,4 @@
 # Bálint 2023.11.09 Képek keresése, AI használati területeinek keresése, mit tartogat a jövő
 # Aron 2023.11.09 Kép keresés, neurális hálózatok
 # Aron 2023.11.10 Képek keresése, AI fajtái, AI előnyei, AI működése
+# Bálint 2023.11.10 Kép keresés, deep learning, neurális hálózatok, hol használják az AI-t, MI technológiák
