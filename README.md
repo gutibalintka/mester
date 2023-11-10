@@ -7,4 +7,4 @@
 # Aron 2023.11.08 Ágens fogalma, működése
 # Bálint 2023.11.09 Képek keresése, AI használati területeinek keresése, mit tartogat a jövő
 # Aron 2023.11.09 Kép keresés, neurális hálózatok
-# Aron 2023.1109 Képek keresése, AI fajtái, AI előnyei, AI működése
+# Aron 2023.11.09 Képek keresése, AI fajtái, AI előnyei, AI működése
