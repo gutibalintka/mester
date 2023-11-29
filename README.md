@@ -11,3 +11,4 @@
 # Bálint 2023.11.10 Kép keresés, deep learning, neurális hálózatok, hol használják az AI-t, MI technológiák
 # Bálint 2023.11.22 AI mint program keresése, ppt elkezdése.
 # Gergő 2023.11.22 AI mint program keresése
+# Gergő 2023.11.29 Ppt készítése
