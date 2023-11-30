@@ -10,6 +10,8 @@
 # Aron 2023.11.10 Képek keresése, AI fajtái, AI előnyei, AI működése
 # Bálint 2023.11.10 Kép keresés, deep learning, neurális hálózatok, hol használják az AI-t, MI technológiák
 # Bálint 2023.11.22 AI mint program keresése, ppt elkezdése.
+# Aron 2023.11.22 Kép keresés, word okumentum alakítása
 # Gergő 2023.11.22 AI mint program keresése
 # Gergő 2023.11.29 Ppt készítése
 # Bálint 2023.11.29 102-es tanterem
+# Aron 2023.11.29 Nem működött a számító
