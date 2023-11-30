@@ -16,3 +16,4 @@
 # Bálint 2023.11.29 102-es tanterem
 # Aron 2023.11.29 Nem működött a számító
 # Aron 2023.11.30 PPT készítése
+# Gergő 2023.11.30 PPT készítése
