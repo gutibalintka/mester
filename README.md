@@ -19,3 +19,4 @@
 # Gergő 2023.11.30 PPT készítése
 # Bálint 2023.11.30 PPT készítése
 # Bálint 2023.12.06 PPT készítése
+# Áron 2023.12.06 PPT készítése
