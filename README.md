@@ -22,3 +22,4 @@
 # Áron 2023.12.06 PPT készítése
 # Bálint 2023.12.07 PPT készítése
 # Áron 2023.12.07 PPT készítése, diák szerkesztése
+# Áron 2023.12.08 PPT befejezése, (Pöpec)
