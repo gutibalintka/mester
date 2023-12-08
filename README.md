@@ -23,3 +23,5 @@
 # Bálint 2023.12.07 PPT készítése
 # Áron 2023.12.07 PPT készítése, diák szerkesztése
 # Áron 2023.12.08 PPT befejezése, (Pöpec)
+# Bálint 2023.12.08 PPT befejezése, áttűnés hozzáadása (pacek)
+# Bütyök (nem volt itt), de szívünkben végig itt volt
